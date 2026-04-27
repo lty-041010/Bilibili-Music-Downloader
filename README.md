@@ -6,7 +6,7 @@
 ## 快速开始
 1. 下载本仓库代码
 2. 从 [Release 附件](https://github.com/lty-041010/Bilibili-Music-Downloader/releases) 下载 `ffmpeg.exe`
-3. 将 `ffmpeg.exe` 放到和 `B站音频下载器.exe` 同目录
+3. 将 `ffmpeg.exe` 放到和 `源码` 同目录
 4. 运行软件即可
 
 ---
